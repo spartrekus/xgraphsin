@@ -1,5 +1,5 @@
 # xgraphsin
-x11 graphical math function (sinus)
+x11 graphical math plot 
 
 
 ![](https://raw.githubusercontent.com/spartrekus/xgraphsin/master/x11-graphsin-2.png)
